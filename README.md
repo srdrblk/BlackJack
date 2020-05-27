@@ -5,7 +5,6 @@ README
 This program is a simple version of Blackjack game. It have 4 layer and one app 
 
 Contract: 
-
 This layer is determined according to the needs that differ according to the project. "Extentions" can be used in this layer, but since it will make this layer dependent on other layers and I think it is appropriate to stay on the same layer with entities.
 
 Models:
