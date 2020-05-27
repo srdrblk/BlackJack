@@ -2,7 +2,10 @@
  3. İskambil kağıtları için genel (generic) bir data yapısı tasarlamanızı istiyoruz. Bu hazırlamış olduğunuz data yapısını, 21 oyununa göre nasıl implemente edersiniz? 
  
 README 
-This program is a simple version of Blackjack game. It have 4 layer and one app Contract: This layer is determined according to the needs that differ according to the project. "Extentions" can be used in this layer, but since it will make this layer dependent on other layers and I think it is appropriate to stay on the same layer with entities.
+This program is a simple version of Blackjack game. It have 4 layer and one app 
+
+Contract: 
+This layer is determined according to the needs that differ according to the project. "Extentions" can be used in this layer, but since it will make this layer dependent on other layers and I think it is appropriate to stay on the same layer with entities.
 
 Models:
 This layer contains only entities and "extensions" of these entities. However, while creating these entities, I added a few calculations to the properties. Since I need these calculations all the time, I found it appropriate to do this, but I generally did not prefer it. One of the reasons for this is the "PlayerStatuEnum" property in the Player entity. Because it had to get an input
