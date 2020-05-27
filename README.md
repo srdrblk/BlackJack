@@ -16,8 +16,8 @@ This layer is used to customize the methods in the repository according to the a
 Apps-BlackJack:
 It is clasic mvc design pattern project. On "Startup" add singelton instance for dependency . Thanks to that I dont lose my variables that I need but It can be a problem when we works on complex project. On Client there are three main button create game, restart game and close game , three player button "get card","close deal" and get a set (add new player). Some of these buttons use simple ajax request and you find these request on wwwroot-> js -> game.js
 
-CVS 
-Blackjac needs .Net Core sdk 3 to work.(https://dotnet.microsoft.com/download/dotnet-core/3.0)
+CVS
+Blackjack needs .Net Core sdk 3 to work.(https://dotnet.microsoft.com/download/dotnet-core/3.0)
 
 CONTACT 
 serdarbilek@outlook.com
