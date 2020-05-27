@@ -1,0 +1,38 @@
+﻿
+@model List<Models.Entities.Player>
+@using Contract.Enums
+
+
+<div class="row">
+
+    @foreach (var item in Model.Where(p => p.PlayerType == PlayerTypeEnum.Casino))
+    {
+        @if (item.PlayerType == PlayerTypeEnum.Casino)
+        {
+            <div class="col  btn ">
+                @await Html.PartialAsync("../Home/Casino.cshtml", item)
+            </div>
+        }
+    }
+</div>
+<p class="btn"><b>Players</b></p>
+<div class="row ">
+    @foreach (var item in Model.Where(p => p.PlayerType == PlayerTypeEnum.Guest))
+    {
+        @if (item.PlayerType == PlayerTypeEnum.Guest)
+        {
+
+            <div class="col btn">
+                @await Html.PartialAsync("../Home/Player.cshtml", item)
+            </div>
+        }
+    }
+</div>
+@if (Model.Count() < 5)
+{
+    <div class="row ">
+        <div class="col btn btn-success" onclick="addPlayer()">
+            Get Seat
+        </div>
+    </div>
+}

@@ -1,0 +1,15 @@
+D:\CoreProjects\Loodos\BlackJack\Service\obj\Debug\netcoreapp3.0\Service.AssemblyInfoInputs.cache
+D:\CoreProjects\Loodos\BlackJack\Service\obj\Debug\netcoreapp3.0\Service.AssemblyInfo.cs
+D:\CoreProjects\Loodos\BlackJack\Service\obj\Debug\netcoreapp3.0\Service.csprojAssemblyReference.cache
+D:\CoreProjects\Loodos\BlackJack\Service\bin\Debug\netcoreapp3.0\Service.deps.json
+D:\CoreProjects\Loodos\BlackJack\Service\bin\Debug\netcoreapp3.0\Service.dll
+D:\CoreProjects\Loodos\BlackJack\Service\bin\Debug\netcoreapp3.0\Service.pdb
+D:\CoreProjects\Loodos\BlackJack\Service\bin\Debug\netcoreapp3.0\Contract.dll
+D:\CoreProjects\Loodos\BlackJack\Service\bin\Debug\netcoreapp3.0\Models.dll
+D:\CoreProjects\Loodos\BlackJack\Service\bin\Debug\netcoreapp3.0\Repository.dll
+D:\CoreProjects\Loodos\BlackJack\Service\bin\Debug\netcoreapp3.0\Repository.pdb
+D:\CoreProjects\Loodos\BlackJack\Service\bin\Debug\netcoreapp3.0\Contract.pdb
+D:\CoreProjects\Loodos\BlackJack\Service\bin\Debug\netcoreapp3.0\Models.pdb
+D:\CoreProjects\Loodos\BlackJack\Service\obj\Debug\netcoreapp3.0\Service.csproj.CopyComplete
+D:\CoreProjects\Loodos\BlackJack\Service\obj\Debug\netcoreapp3.0\Service.dll
+D:\CoreProjects\Loodos\BlackJack\Service\obj\Debug\netcoreapp3.0\Service.pdb

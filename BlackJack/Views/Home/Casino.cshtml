@@ -1,0 +1,23 @@
+﻿@model Models.Entities.Player
+@using Contract.Enums
+
+<div >
+    <p><b>Casino</b></p>
+    <div class="row ">
+
+        @foreach (var card in Model.PlayerCards)
+        {
+            <div class="col  btn btn-outline-secondary">
+                <div class="card rank-@card.Class"><span class="rank">@card.Title</span><span class="suit">  </span></div>
+            </div>
+        }
+
+  
+            <div class="col-12">
+                <a class="btn ">@Model.PlayerStatuEnum.ToString() - @Model.Point</a>
+            </div>
+
+
+    </div>
+</div>
+
