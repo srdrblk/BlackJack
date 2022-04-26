@@ -1,0 +1,16 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/BlackJack/bin/Debug
+/Contract/bin/Debug/net6.0
+/Models/bin/Debug/net6.0
+/BlackJack/obj
+/Contract/obj/Debug
+/Services/bin/Debug/net6.0
+/Service/bin/Debug/net6.0
+/Models/obj/Debug/net6.0
+/Models/obj/Debug/netcoreapp3.0
+/Services/obj/Debug
+/Service/obj/Debug/net6.0
+/Service/obj/Debug/netcoreapp3.0
