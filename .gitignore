@@ -14,3 +14,7 @@
 /Services/obj/Debug
 /Service/obj/Debug/net6.0
 /Service/obj/Debug/netcoreapp3.0
+/Contract/obj
+/Models/obj
+/Service/obj
+/Services/obj
