@@ -1,8 +1,0 @@
-D:\CoreProjects\Loodos\BlackJack\Contract\bin\Debug\netcoreapp3.0\Contract.deps.json
-D:\CoreProjects\Loodos\BlackJack\Contract\bin\Debug\netcoreapp3.0\Contract.dll
-D:\CoreProjects\Loodos\BlackJack\Contract\bin\Debug\netcoreapp3.0\Contract.pdb
-D:\CoreProjects\Loodos\BlackJack\Contract\obj\Debug\netcoreapp3.0\Contract.csprojAssemblyReference.cache
-D:\CoreProjects\Loodos\BlackJack\Contract\obj\Debug\netcoreapp3.0\Contract.AssemblyInfoInputs.cache
-D:\CoreProjects\Loodos\BlackJack\Contract\obj\Debug\netcoreapp3.0\Contract.AssemblyInfo.cs
-D:\CoreProjects\Loodos\BlackJack\Contract\obj\Debug\netcoreapp3.0\Contract.dll
-D:\CoreProjects\Loodos\BlackJack\Contract\obj\Debug\netcoreapp3.0\Contract.pdb
